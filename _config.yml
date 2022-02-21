@@ -75,7 +75,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: Loyola Catholic School
         link: loyolacatholicschool.org
         # link_text: boringcompany.com
@@ -90,20 +90,20 @@ content:
             - Deployed and managed over 400 macOS, 350 iOS, and 50 tvOS devices for students and staff Preschool-12
             - Successfully migrated CRM system to Salesforce and provided end-user support for all databases
 
-      - layout: left
-        title: Loyola Catholic School
+      - layout: top
+        title: Moore Solutions
         link: loyolacatholicschool.org
         # link_text: boringcompany.com
-        sub_title: Director of Technology, Former Technology Associate
-        caption: June 2015 - Present
+        sub_title: Owner/Technician
+        caption: January 2013 - Present
         quote: >
-          In my time as Director of Technology, I have conceptualized and completed several large-scale projects. This includes communication with many different parties, project management, and significant attention to detail. In the past year, I was able to successfully transition staff and students to distance learning and with the new school year, seamlessly communicate with and support both in-person and distance learners.
+          At Moore Solutions, I've been able to dive into the client experience. My focus has always been providing the best possible service through communication, ongoing support, and technical knowledge.
         description: | # this will include new lines to allow paragraphs
-            - Management of budget, technology staff, projects, and contractors
-            - Communication and collaboration with all staff and students, including the use of Incident IQ
-            - Deployed and maintained Jamf Pro to secure systems, enforce configurations, and update clients and third-party software for macOS, iOS, and tvOS devices
-            - Deployed and managed over 400 macOS, 350 iOS, and 50 tvOS devices for students and staff Preschool-12
-            - Successfully migrated CRM system to Salesforce and provided end-user support for all databases
+            - Communicate with clients on a regular basis to ensure everything is running smoothly
+            - Schedule times to meet with clients about various business needs
+            - Develop, design, and implement websites across multiple businesses
+            - Manage and maintain computer networks and computers for multiple businesses including hardware and software repair
+            - Provide recommendations on hardware and software based on knowledge of the business
         
 
   - title: Education # Title for the section
