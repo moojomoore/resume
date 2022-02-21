@@ -90,7 +90,7 @@ content:
 
       - layout: left
         title: Moore Solutions
-        link: loyolacatholicschool.org
+        #link: moore.solutions
         # link_text: boringcompany.com
         sub_title: Owner/Technician
         caption: January 2013 - Present
