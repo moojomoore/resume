@@ -73,7 +73,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
+      - layout: left
         title: Loyola Catholic School
         link: loyolacatholicschool.org
         # link_text: boringcompany.com
@@ -88,7 +88,7 @@ content:
             - Deployed and managed over 400 macOS, 350 iOS, and 50 tvOS devices for students and staff Preschool-12
             - Successfully migrated CRM system to Salesforce and provided end-user support for all databases
 
-      - layout: top
+      - layout: left
         title: Moore Solutions
         link: loyolacatholicschool.org
         # link_text: boringcompany.com
@@ -107,7 +107,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: Minnesota State University, Mankato
         caption: 2019
         sub_title: Bachelor of Science - Management Information Systems
