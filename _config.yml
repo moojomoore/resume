@@ -9,7 +9,7 @@ version: 2
 name: Jordan Moore
 title: Self-proclaimed Apple Guru
 email: jordan@jordanrmoore.com
-website: www.jordanrmoore.com
+website: jordanrmoore.com
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -114,6 +114,20 @@ content:
         # quote: >
         # description: | # this will include new lines to allow paragraphs
           
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top
+        title: Jamf 200 - Jamf Certified Technician
+        # sub_title: Bachelor of Science - Management Information Systems
+        # quote: >
+        # description: | # this will include new lines to allow paragraphs       
+        
+      - layout: top
+        title: Jamf 300 - Jamf Certified Admin
+        # sub_title: Bachelor of Science - Management Information Systems
+        # quote: >
+        # description: | # this will include new lines to allow paragraphs       
           
   - title: More About Me
     layout: text
