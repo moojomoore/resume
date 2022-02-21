@@ -129,7 +129,7 @@ content:
         # quote: >
         # description: | # this will include new lines to allow paragraphs       
         
-        - layout: top
+      - layout: top
         title: JumpCloud Core Certification
         # sub_title: Bachelor of Science - Management Information Systems
         # quote: >
