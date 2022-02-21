@@ -128,6 +128,12 @@ content:
         # sub_title: Bachelor of Science - Management Information Systems
         # quote: >
         # description: | # this will include new lines to allow paragraphs       
+        
+        - layout: top
+        title: JumpCloud Core Certification
+        # sub_title: Bachelor of Science - Management Information Systems
+        # quote: >
+        # description: | # this will include new lines to allow paragraphs       
           
   - title: More About Me
     layout: text
