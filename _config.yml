@@ -89,23 +89,7 @@ content:
             - Deployed and maintained Jamf Pro to secure systems, enforce configurations, and update clients and third-party software for macOS, iOS, and tvOS devices
             - Deployed and managed over 400 macOS, 350 iOS, and 50 tvOS devices for students and staff Preschool-12
             - Successfully migrated CRM system to Salesforce and provided end-user support for all databases
-            
-    content:
-      - layout: left
-        title: Loyola Catholic School
-        link: loyolacatholicschool.org
-        # link_text: boringcompany.com
-        sub_title: Director of Technology, Former Technology Associate
-        caption: June 2015 - Present
-        quote: >
-          In my time as Director of Technology, I have conceptualized and completed several large-scale projects. This includes communication with many different parties, project management, and significant attention to detail. In the past year, I was able to successfully transition staff and students to distance learning and with the new school year, seamlessly communicate with and support both in-person and distance learners.
-        description: | # this will include new lines to allow paragraphs
-            - Management of budget, technology staff, projects, and contractors
-            - Communication and collaboration with all staff and students, including the use of Incident IQ
-            - Deployed and maintained Jamf Pro to secure systems, enforce configurations, and update clients and third-party software for macOS, iOS, and tvOS devices
-            - Deployed and managed over 400 macOS, 350 iOS, and 50 tvOS devices for students and staff Preschool-12
-            - Successfully migrated CRM system to Salesforce and provided end-user support for all databases
-
+    
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -116,6 +100,18 @@ content:
         sub_title: Bachelor of Science - Management Information Systems
         # quote: >
         # description: | # this will include new lines to allow paragraphs
+          
+          
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Minnesota State University, Mankato
+        caption: 2019
+        sub_title: Bachelor of Science - Management Information Systems
+        # quote: >
+        # description: | # this will include new lines to allow paragraphs
+          
           
   - title: More About Me
     layout: text
