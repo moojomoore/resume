@@ -48,7 +48,7 @@ google_analytics: "G-LFW78HRP4V"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    I am an Apple IT Professional with over 7 years of experience in information technology including the support, administration, management, and training in Apple systems.
+    I am an Apple IT Professional with over 7 years of experience in information technology including the support, administration, management, and training in Apple systems. I enjoy working with people to solve issues!
 content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
