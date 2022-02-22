@@ -101,6 +101,8 @@ content:
 
       - layout: left
         title: Loyola Catholic School
+        link: loyolacatholicschool.org
+        # link_text: boringcompany.com
         sub_title: Technology Associate
         caption: June 2015 - January 2020
         quote: >
@@ -113,7 +115,7 @@ content:
 
       - layout: left
         title: Moore Solutions
-        #link: moore.solutions
+        link: moore.solutions
         # link_text: boringcompany.com
         sub_title: Owner/Technician
         caption: January 2013 - Present
@@ -129,6 +131,7 @@ content:
     content:
       - layout: top
         title: Minnesota State University, Mankato
+        link: mnsu.edu
         caption: Decemeber 2019
         sub_title: Bachelor of Science - Management Information Systems
         # quote: >
@@ -139,18 +142,21 @@ content:
     content:
       - layout: top
         title: Jamf 200 - Jamf Certified Technician
+        caption: December 2018
         # sub_title: Bachelor of Science - Management Information Systems
         # quote: >
         # description: | # this will include new lines to allow paragraphs       
         
       - layout: top
         title: Jamf 300 - Jamf Certified Admin
+        caption: August 2019
         # sub_title: Bachelor of Science - Management Information Systems
         # quote: >
         # description: | # this will include new lines to allow paragraphs       
         
       - layout: top
         title: JumpCloud Core Certification
+        caption: December 2020
         # sub_title: Bachelor of Science - Management Information Systems
         # quote: >
         # description: | # this will include new lines to allow paragraphs       
