@@ -115,7 +115,7 @@ content:
 
       - layout: left
         title: Moore Solutions
-        link: moore.solutions
+        #link: moore.solutions
         # link_text: boringcompany.com
         sub_title: Owner/Technician
         caption: January 2013 - Present
