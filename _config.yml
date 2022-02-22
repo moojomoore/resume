@@ -48,7 +48,7 @@ google_analytics: "G-LFW78HRP4V"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am an Apple IT Professional with over 7 years of experience in information technology including the support, administration, management, and training in Apple systems.
+    I am an Apple IT Professional with over 7 years of experience in information technology including the support, administration, management, and training in Apple systems.
 content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -79,7 +79,7 @@ content:
         sub_title: Customer Support Engineer
         caption: February 2022 - Present
         quote: >
-          As a Customer Support Engineer at Kandji, I work directly with customers to be sure they're set up for success!
+            As a Customer Support Engineer at Kandji, I work directly with customers to be sure they're set up for success!
         description: | # this will include new lines to allow paragraphs
             Kandji is a modern Apple MDM platform. At Kandji, I work directly with customers to make sure they are happy, productive, and set up for success. I share customer feedback and insights with the product team and report issues to engineers.
     
@@ -90,7 +90,7 @@ content:
         sub_title: Director of Technology
         caption: January 2020 - February 2022
         quote: >
-          As Director of Technology, I was responsible for planning, purchasing, installing, and maintaining technology systems.
+            As Director of Technology, I was responsible for planning, purchasing, installing, and maintaining technology systems.
         description: | # this will include new lines to allow paragraphs
             At Loyola Catholic School,
             - I coordinated a 5-year technology plan to ensure that all network infrastructure was upgraded including cabling, network switches, and wireless access points.
@@ -104,12 +104,12 @@ content:
         sub_title: Technology Associate
         caption: June 2015 - January 2020
         quote: >
-          As Technology Associate, I provided front-line support for all students and staff.
+            As Technology Associate, I provided front-line support for all students and staff.
         description: | # this will include new lines to allow paragraphs
             As Technology Associate, 
             - I used a helpdesk system to manage and track issues across the school. I worked in close conjunction with staff to ensure that issues were resolved as quickly as possible. 
             - I coordinated with the Director of Technology on system purchases, future budgeting projections, and projects.
-           -  I maintained the network to ensure that everyone had network connectivity throughout the building.
+            - I maintained the network to ensure that everyone had network connectivity throughout the building.
 
       - layout: left
         title: Moore Solutions
@@ -118,7 +118,7 @@ content:
         sub_title: Owner/Technician
         caption: January 2013 - Present
         quote: >
-          As the Owner of Moore Solutions, I have been able to help clients by providing the best possible service through communication, ongoing support, project management, and technical knowledge.
+            As the Owner of Moore Solutions, I have been able to help clients by providing the best possible service through communication, ongoing support, project management, and technical knowledge.
         description: | # this will include new lines to allow paragraphs
             As the Owner of Moore Solutions, I communicate with clients on a regular basis to ensure their business technology is running smoothly. I schedule times to meet with clients about their various business needs including recommending new hardware or software based on the business requirements.
             I manage and maintain computer networks and systems for clients including hardware and software repair. I develop, design, implement, and maintain websites across multiple clients.
